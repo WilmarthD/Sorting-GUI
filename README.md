@@ -3,7 +3,9 @@ GUI application containing a menu and action-enabled buttons
 
 ## Setup
 > Download all .java files into the same program folder
+
 > Download or follow the .txt files, these are input file examples
+
 > Build the program and run from the command line, argument 1 will be the name of the sort file and argument 2 will be the name of the search file
 
 ## The program
